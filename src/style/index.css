@@ -36,3 +36,11 @@ h1 {
 .tags li {
     font-weight: bolder;
 }
+
+cite {
+    font-weight: bold;
+}
+
+.list-item .time-range {
+    font-weight: bold;
+}
